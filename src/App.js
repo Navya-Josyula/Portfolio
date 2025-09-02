@@ -77,7 +77,7 @@ const App = () => {
         </ul>
       </div>
       <div className="bg-white dark:bg-gray-800 p-8 rounded-xl shadow-lg border-l-4 border-emerald-400 hover:scale-[1.02] transition-transform">
-        <h3 className="text-2xl font-bold text-indigo-700 dark:text-emerald-300">Project Trainee</h3>
+        <h3 className="text-2xl font-bold text-indigo-700 dark:text-emerald-300">Software Engineer</h3>
         <p className="text-sm text-gray-500 dark:text-gray-300 mb-2">Harman International | Jan 2020 – Apr 2021</p>
         <ul className="list-disc pl-5 text-gray-700 dark:text-gray-200 space-y-1">
           <li>Developed dashboards using React.js and visualized healthcare data.</li>
