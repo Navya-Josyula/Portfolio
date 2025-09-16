@@ -8,7 +8,7 @@ const App = () => {
         <div className="max-w-7xl mx-auto px-4 py-4 flex items-center justify-between">
           <div className="flex items-center space-x-3">
             <img
-              src="./assets/png/passport_photo.jpg"
+              src="./assets/png/prof_pic.jpeg"
               alt="Navya Logo"
               className="w-12 h-12 rounded-full object-cover"
             />
